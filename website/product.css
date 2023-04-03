@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+}
+
+header{
+
+    background-color: cyan;
+    padding: 10px;
+    }
+    
+    /* style the top nav*/
+    .topnav{
+    
+        overflow: hidden;
+        background-color: black;
+    }
+     
+    .topnav a{
+    
+    float: left;
+    color: aliceblue;
+    display: block;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+    }
+    
+    .topnav a:hover{
+    
+        background-color: white;
+        color: black;
+    }
+
+    .footer{
+        background-color: red;
+        padding: 10px;
+        text-align: center;
+        font-family:Georgia, 'Times New Roman', Times, serif ;
+        font-weight: 900;
+        
+        }
+        
+/*style the middle column*/
+
+        .column.middle{
+         padding: 10px;
+         height: 90vh;
+         width: 100vw;
+         
+    }
+
+
+        .footer{
+        background-color: rgb(255, 0, 0);
+        color: black;
+        
+        }
+
+    
+
+
+
+
+
+
+
+
+

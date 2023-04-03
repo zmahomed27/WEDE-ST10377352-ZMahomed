@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+}
+
+header{
+
+    background-color: cyan;
+    padding: 10px;
+}
+
+/* style the top nav*/
+.topnav{
+
+    overflow: hidden;
+    background-color: black;
+}
+
+
+
+.topnav a{
+
+    float: left;
+    color: aliceblue;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.topnav a:hover{
+
+    background-color: white;
+    color: black;
+}
+
+
+/*style the middle column*/
+
+.column.middle{
+    padding: 10px;
+    height: 130vh;
+    width: 50vw;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    font-weight: 600;
+}
+
+.footer{
+    background-color: red;
+    padding: 10px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    font-weight: 900;
+    
+
+
+}
+
+
+   
+
